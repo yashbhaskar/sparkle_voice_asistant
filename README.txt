@@ -1,3 +1,12 @@
+# ROS 2 Robot Simulation Project
+
+This project is part of the ROS 2 Mentorship Program at Rigbetel Labs. It demonstrates the integration of a custom-designed robot into Gazebo and RViz2, along with keyboard control and sensor plugins.
+
+## Features
+
+- **CAD to URDF Conversion:** The robot was designed using Fusion 360 or SolidWorks and converted into a URDF package.
+
+
 # **Intelligent Personal Assistant with Facial Recognition and Voice Commands**
 
 ![Project Overview](images/project_overview.png)  
