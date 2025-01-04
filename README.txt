@@ -1,6 +1,6 @@
 # Intelligent Personal Assistant with Facial Recognition and Voice Commands
 
-![Project Overview]()  
+![Project Overview](images/project_overview.png)  
 *Figure 1: Project Overview*
 
 ---
@@ -51,35 +51,3 @@ This project integrates **facial recognition**, **voice commands**, and **system
 │   └── assistant_demo.png   # Demo image
 ├── requirements.txt         # Dependencies
 └── README.md                # Readme file
-
-
-## INSTALL ALL THE FOLLOWING LIBRARIES USING :
-
-pip install (library name)
-
-cv2
-pyttsx3
-speech_recognition
-pyautogui
-time
-face_recognition
-matplotlib.pyplot
-pygetwindow
-datetime
-smtplib
-requests
-BeautifulSoup
-webbrowser
-pywhatkit
-wikipedia
-os
-sys
-time
-psutil
-subprocess
-pyjokes
-handtrackingmodule
-fbchat
-
-
-For finding cursor coordinates for pyautogui use cusor_coordinates.py code.
