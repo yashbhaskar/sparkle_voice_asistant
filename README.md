@@ -83,5 +83,5 @@ Run the Main Program:
 To start the personal assistant, run the main.py script:
 
 ```bash
-python3 main.py
+python3 sparkle.py
 ```
