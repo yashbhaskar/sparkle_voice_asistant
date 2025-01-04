@@ -1,4 +1,4 @@
-# Intelligent Personal Assistant with Facial Recognition and Voice Commands
+# **Intelligent Personal Assistant with Facial Recognition and Voice Commands**
 
 ![Project Overview](images/project_overview.png)  
 *Figure 1: Project Overview*
