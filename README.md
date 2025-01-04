@@ -1,5 +1,6 @@
 
 # sparkle voice asistant
+![img](https://github.com/user-attachments/assets/e98b75b6-3495-4134-b124-e9bbec881f10)
 
 ## 🌟 **Overview**
 This project integrates **facial recognition**, **voice commands**, and **system automation** to create a hands-free **personal assistant**. It provides an interactive and secure way to perform tasks like web searches, system control, and real-time updates.
@@ -75,6 +76,8 @@ The following libraries are used in the project:
 ## 🖼️ Usage
 Finding cursor coordinates for pyautogui:
 Use the cursor_coordinates.py script to find the cursor coordinates on your screen.
+![Sparkle_Voice_Asistant](https://github.com/user-attachments/assets/134d28b0-9c17-4025-8052-e366f644f05c)
+
 
 Run the Main Program:
 To start the personal assistant, run the main.py script:
